@@ -1,9 +1,14 @@
 # Easy Cash - Credit Risk Classification
 
+> **Area:** 🏦 Finance
+
+> **Description:** *Projeto de Classificação com Machine Learning aplicado em Análise de Risco de Crédito de um banco, afim de, identificar possíveis inadimplentes.*
+
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange.svg)
 ![Issues Open](https://img.shields.io/github/issues/reynancs/EasyCash.svg)
 ![Issues Closed](https://img.shields.io/github/issues-closed/reynancs/EasyCash.svg)
 
+## Tools used
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)](https://docs.python.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/pandas-docs/stable/index.html)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/)
@@ -15,9 +20,7 @@
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/pt-br/)
 
 
-> **Area:** 🏦 Finance
 
-> **Description:** *Projeto de Classificação com Machine Learning aplicado em Análise de Risco de Crédito de um banco, afim de, identificar possíveis inadimplentes.*
 
 ## 📚 Summmary
 1. [Business Understanding](https://github.com/reynancs/EasyCash/blob/main/README.md#business-problem)
@@ -109,6 +112,7 @@ Após reuniões com o time e os stakeholders envolvidos, bem como a disponibilid
 
 ## 10. Author
 [![Author](https://img.shields.io/badge/Author-Renan%20Cardoso-red.svg)](https://www.linkedin.com/in/renan-cardoso-8323b151)
+
 ## 11. License
 [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)
 
