@@ -1,12 +1,12 @@
 # Easy Cash - Credit Risk Classification
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange.svg)
+![Issues Open](https://img.shields.io/github/issues/reynancs/EasyCash.svg)
+![Issues Closed](https://img.shields.io/github/issues-closed/reynancs/EasyCash.svg)
 
 > **Area:** 🏦 Finance
 
 > **Description:** *Projeto de Classificação com Machine Learning aplicado em Análise de Risco de Crédito de um banco, afim de, identificar possíveis inadimplentes.*
 
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange.svg)
-![Issues Open](https://img.shields.io/github/issues/reynancs/EasyCash.svg)
-![Issues Closed](https://img.shields.io/github/issues-closed/reynancs/EasyCash.svg)
 
 ## Tools used
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)](https://docs.python.org/)
