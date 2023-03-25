@@ -1,9 +1,5 @@
 # Base de Dados
-Por meio dos arquivos Dumps (.sql) disponibilizado, os dados das tabelas foram carregados no MySQL, traduzidos e realizado a união destes dados em uma outra tabela criada, chamado: `dados_unidos` por meio dos relacionamentos das chaves: `person_id`, `loan_id`, `cb_id`.
-
-Após realizar a união das tabelas, estes dados foram disponibilizados em 2 arquivos:
-- `dados_juntos.csv` - União dos dados sem remoção de dados (Dados Brutos);
-- `dados_tratados.csv` - União dos dados com remoção de dados nulos ou incompletos (Dados Tratados); 
+A base de dados foi disponibilizada pelo cliente em 4 tabelas distintas (descritas abaixo) no formato de dumps (.sql), os dados das tabelas foram carregados no banco de dados ` analise_risco` no MySQL, posteriormente foi realizado o ***union data*** consolidando os dados em apenas uma tabela `dados_juntos.csv` exportado em formato .csv para consumo.
 
 
 ## Dicionário de dados por tabela
